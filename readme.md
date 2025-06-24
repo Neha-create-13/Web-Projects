@@ -29,8 +29,8 @@ weather_app/
 
 ## Contact
 
-#### Developed by Kathan Patel
+#### Developed by Neha Patil
 
-#### Project link:- []()
+#### Project link:- [https://github.com/Neha-create-13/Web-Projects](https://github.com/Neha-create-13/Web-Projects)
 
 #### Feel free to reach out for feedback or collaboration!
